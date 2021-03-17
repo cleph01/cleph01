@@ -12,8 +12,8 @@ I have held a diverse collection of positions in various industries. From Wall S
 Strong communication skills is a transformative trait that I have developed as a result.
 
 ## Find me around the web 🌎: 
-- Motivating people to get out of their heads and into their bodies on <a target="_blank" href="https://www.instagram.com/charlieburpee/">Instagram</a> 📹 ✍🏾
-- Sharing updates on <a target="_blank" href="https://www.linkedin.com/in/charlesmontoya/">LinkedIn</a> 💼
+- Motivating people to get out of their heads and into their bodies on <a href="https://www.instagram.com/charlieburpee/" target="_blank">Instagram</a> 📹 ✍🏾
+- Sharing updates on <a href="https://www.linkedin.com/in/charlesmontoya/" target="_blank">LinkedIn</a> 💼
 
 <!--
 **cleph01/cleph01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
