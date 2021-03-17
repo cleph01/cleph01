@@ -4,10 +4,12 @@
 ![](https://raw.githubusercontent.com/cleph01/cleph01/master/github_banner.png)
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
-Software Engineer, Boxing Coach and Community Organizer
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I'm a software engineer who is passionate about creating technology to elevate small-businesses, inspiring people to uncover their fitness potential, and leading from the front in support of mentoring young people. Some technologies I enjoy working with include ReactJS, GraphQL, and the Firebase Suite. 
 
+I have held a diverse collection of positions in various industries. From Wall Street to the Boxing Gym, I have collaborated, negotiated, and lead people from different walks-of-life. This wonderful web of experiences has helped me realize how much I enjoy emotionally investing in people's growth and road to success. 
+
+Strong communication skills is a transformative trait that I have developed as a result.
 
 ## Find me around the web 🌎: 
 - Motivating people to get out of their heads and into their bodies on <a href="https://www.instagram.com/charlieburpee/">Instagram</a> 📹 ✍🏾
