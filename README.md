@@ -5,11 +5,13 @@
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
 
-I'm a software engineer and a boxing gym owner who is passionate about creating technology to elevate small-businesses and driven to help people live up to their potential.  On my down time, I submit to a hellacious amount of Burpees.  100, 300, 500 Reps per workout session.  
+I'm a software engineer and a boxing gym owner who is passionate about creating technology that elevate small-businesses and driven to help people live up to their potential.  
 
-On December 31, 2020 I completed 1,000 straight 1-pump Burpees in 1hr:47min.  Why?  Because it trains my mind to overcome self-imposed adversity.  
+On my down time, I submit myself to a hellacious amount of Burpees, of all types: 6 count, 8 count, Navy Seals, Body Builders, Commandos... the list goes on and on for 100, 300, 500 Reps per workout.  
 
-The benefits of this mental and physical hardening flows over into my other professional endeavors.  It helps me to take a step back from, say, a persistent coding challenge and walk my way through to a successful conclusion - one rep, one bug at a time.   
+On December 31, 2020 I completed 1,000 straight 1-pump Burpees in 1hr:47min.  Why?  Because high-rep workouts train my mind to overcome self-imposed adversity.  
+
+This level of physical and mental rigor benefits my developer mindset.  During a persistent coding quandary, the fortitude and mindfulness forged during my workouts help me remain steadfast and inches me through the predicament - one rep at a time, one bug at a time.   
 
 Some technologies I enjoy working with include ReactJS, GraphQL, and the Firebase Suite. 
 
