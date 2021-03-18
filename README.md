@@ -5,11 +5,13 @@
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
 
-I'm a software engineer who is passionate about creating technology to elevate small-businesses, inspiring people to uncover their fitness potential, and leading from the front in support of mentoring young people. Some technologies I enjoy working with include ReactJS, GraphQL, and the Firebase Suite. 
+I'm a software engineer and a boxing gym owner who is passionate about creating technology to elevate small-businesses and driven to help people live up to their potential.  On my down time, I submit to a hellacious amount of Burpees.  100, 300, 500 Reps per workout session.  
 
-I have held a diverse collection of positions in various industries. From Wall Street to the Boxing Gym, I have collaborated, negotiated, and lead people from different walks-of-life. This wonderful web of experiences has helped me realize how much I enjoy emotionally investing in people's growth and road to success. 
+On December 31, 2020 I completed 1,000 straight 1-pump Burpees in 1hr:47min.  Why?  Because it trains my mind to overcome self-imposed adversity.  
 
-Strong communication skills is a transformative trait that I have developed as a result.
+The benefits of this mental and physical hardening flows over into my other professional endeavors.  It helps me to take a step back from, say, a persistent coding challenge and walk my way through to a successful conclusion - one rep, one bug at a time.   
+
+Some technologies I enjoy working with include ReactJS, GraphQL, and the Firebase Suite. 
 
 ## Find me around the web 🌎: 
 - Motivating people to get out of their heads and into their bodies on <a href="https://www.instagram.com/charlieburpee/" target="_blank">Instagram</a> 📹 ✍🏾
