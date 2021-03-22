@@ -5,7 +5,7 @@
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
 
-I'm a software engineer and a boxing gym owner who is obsessed with marrying my passions for technology and fitness.  My journey thus far has blessed me with opportunities in both.  I have created technologies that elevate small businesses and I have helped lead clients back into their bodies introducing them to their latent spirtual power.  
+I'm a software engineer and a boxing gym owner who is obsessed with marrying my passions for technology and fitness.  My journey thus far has blessed me with enriching opportunities in both worlds.  I have created technologies that elevate small businesses and have lead clients back into their bodies introducing them to their potential.  
 
 On my down time, I submit myself to a hellacious amount of Burpees, of all types: 6 count, 8 count, Navy Seals, Body Builders, Commandos... the list goes on and on for 100, 300, 500 Reps per workout.  
 
