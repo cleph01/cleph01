@@ -16,8 +16,8 @@ This level of physical and mental rigor benefits my developer mindset.  During a
 The technologies I enjoy working with include NextJS, Tailwind, and the Firebase Suite. 
 
 ## Find me around the web 🌎 : 
-- Personal Website <a href="https://www.charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> 📹 ✍🏾
-- Sharing updates on <a href="https://www.linkedin.com/in/charlesmontoya/" target="_blank">LinkedIn</a> 💼
+- Personal Website <a href="https://charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> 📹 ✍🏾
+- Sharing updates on <a href="https://linkedin.com/in/charlesmontoya/" target="_blank">LinkedIn</a> 💼
 
 <!--
 **cleph01/cleph01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
