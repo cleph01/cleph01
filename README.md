@@ -16,7 +16,7 @@ This level of physical and mental rigor benefits my developer mindset.  During a
 The technologies I enjoy working with include NextJS, Tailwind, and the Firebase Suite. 
 
 ## Find me around the web 🌎 : 
-- Personal Website <a href="https://charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> 📹 ✍🏾
+- Personal Website & Notable Projects @ <a href="https://charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> 📹 ✍🏾
 - Sharing updates on <a href="https://linkedin.com/in/charlesmontoya/" target="_blank">LinkedIn</a> 💼
 
 <!--
