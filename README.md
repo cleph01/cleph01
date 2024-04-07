@@ -1,7 +1,7 @@
 
 # Hi, I'm Charlie 👋🏽 👨🏻‍💻
 
-![](https://raw.githubusercontent.com/cleph01/cleph01/master/github_banner.png)
+![](https://raw.githubusercontent.com/cleph01/cleph01/master/banner.png)
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
 
