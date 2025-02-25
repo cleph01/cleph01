@@ -5,31 +5,32 @@
 
 <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/cleph01/cleph01/master/hi_avatar.png">
 
-I'm a software engineer and a boxing gym owner who is obsessed with marrying my passions for technology and fitness.  My journey thus far has blessed me with enriching opportunities in both worlds.  On the technology front, I've built solutions that have helped local businesses improve customer engagement and boost revenue.  On the fitness side, I've helped clients find a deeper level of personal power and positive mental health by way of my fitness coaching.  
+I'm a cybersecurity professional in the making, blending a background in fitness coaching, web development, and IT with a strategic career transition into cybersecurity. I hold certifications including A+, Network+, Security+, and AZ-900, with BTL1 - SOC Analyst and CCNA in progress, alongside a B.S. in Cybersecurity and Information Assurance.
 
-On my down time, I submit myself to a hellacious amount of Burpees, of all types: 6 count, 8 count, Navy Seals, Body Builders, Commandos... the list goes on and on for 100, 300, 500 Reps per workout.  
+My journey thus far has blessed me with enriching opportunities in many worlds.  On the technology front, I've built solutions that have helped local businesses improve customer engagement and boost revenue.  On the fitness side, I've helped clients find a deeper level of personal power and positive mental health.  
 
-On December 31, 2020 I completed 1,000 straight 1-pump Burpees in 1hr:47min.  Why?  Because high-rep workouts train my mind to overcome self-imposed adversity.  
+Through my Renaissance Technologist YouTube channel, I document my journey, sharing practical insights and strategies to inspire career changers and tech enthusiasts. My mission extends with the John Connor Project, aimed at educating the public on digital security, decentralization, and self-defense against AI-driven threats.
 
-This level of physical and mental rigor benefits my developer mindset.  During a persistent coding quagmire, the mental toughness I've forged during these transcendent workouts help me remain steadfast and press forward through the problem - one rep at a time, one bug at a time.   
+### 🔐 Protecting 'Main Street' from Centralized AI Threats
 
-The technologies I enjoy working with include NextJS, Tailwind, and the Firebase Suite. 
+💡 **Current Focus:** Cybersecurity analysis, network defense strategies, and practical IT solutions.
 
-## Find me around the web 🌎 : 
-- Personal Website & Notable Projects @ <a href="https://charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> 📹 ✍🏾
+### Find me around the web 🌎 : 
+- Personal Website & Notable Projects @ <a href="https://charlesmontoya.vercel.app" target="_blank">www.CharlesMontoya.com</a> ✍🏽
+- Documenting my Journey on YouTube @ <a href="https://www.youtube.com/@TheRenaissanceTechnologist" target="_blank">The Renaissance Technologist</a> 📹
 - Sharing updates on <a href="https://linkedin.com/in/charlesmontoya/" target="_blank">LinkedIn</a> 💼
 
-<!--
-**cleph01/cleph01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### FAQs
 
-Here are some ideas to get you started:
+- 🔭 _**I’m currently working on**_: Building The John Connor Project website, documenting my Renaissance Technologist journey on YouTube, and preparing for the BTL1 - SOC Analyst and CCNA certifications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 _**I’m currently learning**_: Advanced networking concepts, SOC analysis techniques, JavaScript and modern web development frameworks, and ethical implications of AI in cybersecurity.
+
+- 👯 _**I’m looking to collaborate on**_: Cybersecurity awareness initiatives, practical IT solutions for small businesses, and educational content that empowers career changers and promotes digital self-defense.
+  
+- 🤔 _**I’m looking for help with**_: Navigating the cybersecurity job market, refining SOC analyst skills, and expanding networks with professionals passionate about decentralized security.
+  
+- 💬 _**Ask me about**_: Career transitions into tech, cybersecurity fundamentals, leveraging certifications for job readiness, web development projects, building a personal brand in tech, and getting into the best physical and mental shape of your life.
+  
+- ⚡ _**Fun fact**_: I completed 1,000 Burpees on New Year's Eve, Dec. 31, 2020
+
