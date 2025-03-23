@@ -7,7 +7,7 @@
 
 I'm an IT Support professional with a strong foundation in cybersecurity, networking, and problem-solving. My journey blends experience in fitness coaching, web development, and technology, with a strategic career shift into IT support and cybersecurity.
 
-I hold CompTIA A+, Network+, Security+, and AZ-900, and I'm actively pursuing CCNA and BTL1 - SOC Analyst certifications while completing my B.S. in Cybersecurity and Information Assurance.
+I hold CompTIA A+, Network+, Security+, and AZ-900, and I'm actively pursuing CCNA while completing my B.S. in Cybersecurity and Information Assurance.
 
 ---
 
