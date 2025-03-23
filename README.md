@@ -26,7 +26,7 @@ I help individuals and small businesses navigate IT challenges, optimize their s
 ---
 
 ### 👨🏻‍💻 Information Technology Projects:
-- [Microsoft Active Directory](https://github.com/cleph01/it-active-directory-azure)
+- [Deploying Microsoft Active Directory](https://github.com/cleph01/it-active-directory-azure)
     - Configuring and Deploying On-premises Active Directory within Azure VMs
     - Applying Group Policies and Managing Accounts
     - Enabling Network File Shares and Permissions
@@ -36,7 +36,7 @@ I help individuals and small businesses navigate IT challenges, optimize their s
     - Disable Firewall / Network Security Groups (NSGs) and monitor traffic results
     - Experiment with Remote Desktop and Command Line
  
-- [Deploying osTicket (Help Desk Ticketing System)](https://github.com/cleph01/it-osticket-ticketing-system)
+- [Implementing osTicket (Help Desk Ticketing System)](https://github.com/cleph01/it-osticket-ticketing-system)
     - Prerequisites and Installation
     - Post-Installation SLA Configuration
     - Ticket Lifecycle Examples
