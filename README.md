@@ -20,8 +20,8 @@ I help individuals and small businesses navigate IT challenges, optimize their s
 ### 🔧  Current Focus
 
 - **IT Support & Network Troubleshooting:** Helping users resolve issues and maintain smooth operations
-- **Cybersecurity Fundamentals:** Strengthening network defense strategies and security awareness
 - **Cloud & Systems Administration:** Developing expertise in cloud technologies and system optimization
+- **Cybersecurity Fundamentals:** Strengthening network defense strategies and security awareness
 
 ---
 
@@ -30,17 +30,17 @@ I help individuals and small businesses navigate IT challenges, optimize their s
     - Configuring and Deploying On-premises Active Directory within Azure VMs
     - Applying Group Policies and Managing Accounts
     - Enabling Network File Shares and Permissions
+ 
+- [osTicket (Help Desk Ticketing System)](https://github.com/cleph01/it-osticket-ticketing-system)
+    - Prerequisites and Installation
+    - Post-Installation SLA Configuration
+    - Ticket Lifecycle Examples
    
 - [Inspecting Network Traffic, Security, and Protocols](https://github.com/cleph01/it-network-traffic-security-protocols)
     - Use Wireshark to see various network protocol traffic (i.e., SSH, RDP, DNS, HTTP/S, ICMP)
     - Disable Firewall / Network Security Groups (NSGs) and monitor traffic results
     - Experiment with Remote Desktop and Command Line
  
-- [osTicket (Help Desk Ticketing System)](https://github.com/cleph01/it-osticket-ticketing-system)
-    - Prerequisites and Installation
-    - Post-Installation SLA Configuration
-    - Ticket Lifecycle Examples
-
 <!---
 ---
 
