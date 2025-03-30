@@ -26,16 +26,18 @@ I help individuals and small businesses navigate IT challenges, optimize their s
 ---
 
 ### 👨🏻‍💻 Information Technology Projects:
+
 - [Microsoft Active Directory](https://github.com/cleph01/it-active-directory-azure)
+  
     - Configure and Deploy On-premises Active Directory within Azure VMs
     - Apply Group Policies and Managing Accounts
     - Enable Network File Shares and Permissions
  
 - [osTicket (Help Desk Ticketing System)](https://github.com/cleph01/it-osticket-ticketing-system)
+  
     - Prerequisites and Installation
     - Post-Installation SLA Configuration
     - Ticket Lifecycle Examples
-
 <!---
 - [Network File Sharing and Permissions](https://github.com/cleph01/it-file-share-permissions)
     - Create and manage network file shares with varying levels of access (Read, Write, Deny)
@@ -43,6 +45,7 @@ I help individuals and small businesses navigate IT challenges, optimize their s
     - Incorporate security best practices related to file sharing
 --->
 - [Inspecting Network Traffic, Security, and Protocols](https://github.com/cleph01/it-network-traffic-security-protocols)
+  
     - Use Wireshark to see various network protocol traffic (i.e., SSH, RDP, DNS, HTTP/S, ICMP)
     - Disable Firewall / Network Security Groups (NSGs) and monitor traffic results
     - Experiment with Remote Desktop and Command Line
