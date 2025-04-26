@@ -51,6 +51,12 @@ I help individuals and small businesses navigate IT challenges, optimize their s
     - Disable Firewall / Network Security Groups (NSGs) and monitor traffic results
     - Experiment with Remote Desktop and Command Line
  
+- [Basic LAN Home Lab: Ethernet Termination, Switch Setup, and Packet Analysis](https://github.com/cleph01/basic-LAN)
+
+    - Cut and terminate Cat6 Ethernet cables using RJ45 pass-through connectors
+    - Connect and test a wired network setup (Ethernet over USB-C) on MacBook
+    - Use Wireshark to capture and analyze real-time network traffic
+ 
 <!---
 ---
 
